@@ -74,12 +74,6 @@ A lightweight Bash-only TCP/UDP port scanner using `/dev/tcp` and `/dev/udp`.
   docker run --rm -e HOSTS="host1" -e PORTS="22,443" yourdockerhub/port_check
   ```
 
-- PyPI:
-  ```bash
-  pip install .
-  PORT_CHECK_HOSTS="example.com" port_check
-  ```
-
 ## 📁 Output
 
 - **Plaintext log:**
