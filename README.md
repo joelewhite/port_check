@@ -89,5 +89,4 @@ A lightweight Bash-only TCP/UDP port scanner using `/dev/tcp` and `/dev/udp`.
 
 ## 📄 License
 
-MIT  
-Author: Joel E. White
+MIT (c) 2025 Joel E. White
